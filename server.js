@@ -77,4 +77,8 @@ app.post(
 const tareasRouter = require('./routes/tareas');
 app.use('/api/tareas', tareasRouter);
 
+const climaRouter = require('./routes/clima');
+
+app.use('/api/clima', climaRouter);
+
 module.exports = app;
