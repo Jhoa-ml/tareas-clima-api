@@ -1,0 +1,43 @@
+{
+  "info": {
+    "_postman_id": "90e2c716-463a-491f-aa03-79e070ea5f44",
+    "name": "Sesion 1",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "44889894",
+    "_collection_link": "https://go.postman.co/collection/44889894-90e2c716-463a-491f-aa03-79e070ea5f44?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Estado del servidor",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Echo",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Registro correcto",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Validar correo",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
